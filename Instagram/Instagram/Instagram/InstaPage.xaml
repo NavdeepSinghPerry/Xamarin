@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Instagram"
+             x:Class="Instagram.InstaPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Navdeep Singh"/>
+            <Image Source="./Images/MyImage.jpg" HeightRequest="300"/>
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="Like" TextColor="#1dabf0"/>
+                <Label Text="Comment" TextColor="#1dabf0"/>
+                <Label Text="Share" TextColor="#1dabf0"/>
+            </StackLayout>
+
+            <Label Margin="0 ,30, 0 ,0" Text="700 likes" FontAttributes="Bold" FontSize="14"/>
+
+            <Label Text="How is my new look?"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

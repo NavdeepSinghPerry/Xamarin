@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlV01bxSFX2B2YEI/hO5DSQ3C0qc7HMOdNqUA3dVQ7Wb3NPfC5t5qTkHjm0wofhDBEiv8b4kZVIbcByVEinwwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyg23202\\Desktop\\Mobile Development\\Instagram\\Instagram\\Instagram.iOS\\Instagram.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyg23202\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

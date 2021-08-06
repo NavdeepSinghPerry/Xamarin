@@ -1,0 +1,14 @@
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\bin\Debug\netstandard2.0\InstaFinalVersion.deps.json
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\bin\Debug\netstandard2.0\InstaFinalVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\bin\Debug\netstandard2.0\ref\InstaFinalVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\bin\Debug\netstandard2.0\InstaFinalVersion.pdb
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\NotificationPage.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\InstaFinalVersion.AssemblyInfoInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\InstaFinalVersion.AssemblyInfo.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\InstaFinalVersion.csproj.CoreCompileInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\InstaFinalVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\ref\InstaFinalVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstaFinalVersion\InstaFinalVersion\InstaFinalVersion\obj\Debug\netstandard2.0\InstaFinalVersion.pdb

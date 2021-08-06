@@ -1,0 +1,17 @@
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.deps.json
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.dll
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\ref\AbsoluteLayout.dll
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\bin\Debug\netstandard2.0\AbsoluteLayout.pdb
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.csprojAssemblyReference.cache
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\Absolute.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.AssemblyInfoInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.AssemblyInfo.cs
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.csproj.CoreCompileInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.dll
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\ref\AbsoluteLayout.dll
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\AbsoluteLayout.pdb
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\Absolute2.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\AbsoluteLayout\AbsoluteLayout\AbsoluteLayout\obj\Debug\netstandard2.0\Relative.xaml.g.cs

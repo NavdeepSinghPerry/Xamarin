@@ -1,0 +1,15 @@
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\bin\Debug\netstandard2.0\InstagramSimplfiedVersion.deps.json
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\bin\Debug\netstandard2.0\InstagramSimplfiedVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\bin\Debug\netstandard2.0\ref\InstagramSimplfiedVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\bin\Debug\netstandard2.0\InstagramSimplfiedVersion.pdb
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.csprojAssemblyReference.cache
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\NotificationsPage.xaml.g.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.AssemblyInfoInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.AssemblyInfo.cs
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.csproj.CoreCompileInputs.cache
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\ref\InstagramSimplfiedVersion.dll
+C:\Users\tyg23202\Desktop\Mobile Development\InstagramSimplfiedVersion\InstagramSimplfiedVersion\InstagramSimplfiedVersion\obj\Debug\netstandard2.0\InstagramSimplfiedVersion.pdb
